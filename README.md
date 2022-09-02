@@ -1,5 +1,4 @@
-# video-calling-app
-**The challenge is to build a Microsoft Teams Clone with AceHacker, in Microsoft Engage 2021.**
+
 
 ## Introduction
 The aim of this project is to build a fully-functional prototype where a minimum of two participants can connect with each other to have a video conversation.
